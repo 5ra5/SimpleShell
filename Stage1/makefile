@@ -1,6 +1,3 @@
-# Petra Sartori, 23324886 - Operating Systems Project Stage 1
-# CSC1021/simpleshell
-
 # relevant directories
 SRC_DIR = src
 BIN_DIR = bin
