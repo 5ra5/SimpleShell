@@ -41,3 +41,9 @@ void parse_input(char *input, char **args) {
 
     args[i] = NULL; // end of arg list
 }
+
+/*Name: Petra Sartori
+Student ID: 23324986
+I acknowledge DCU Academic Integrity Policy while working on this project. 
+My work is my work only and is a result of research, practice and design which I did on my own.
+This project does not contain any plagiarised content.*/

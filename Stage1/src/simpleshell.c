@@ -25,6 +25,7 @@ int main(int argc, char *argv[]){
         exit(1);
     }
 
+    // setenv - change or add a environment variable
     // PWD - holds the current directory
     // SHELL - environment variable
     char cwd[MAX_INPUT];
@@ -80,3 +81,9 @@ int main(int argc, char *argv[]){
     free(input);
     return 0;
 }
+
+/*Name: Petra Sartori
+Student ID: 23324986
+I acknowledge DCU Academic Integrity Policy while working on this project. 
+My work is my work only and is a result of research, practice and design which I did on my own.
+This project does not contain any plagiarised content.*/

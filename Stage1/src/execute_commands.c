@@ -17,7 +17,7 @@ void execute_commands(char *input) {
         return;
     }
 
-    // skipping comment lines for batch mode in case there is any
+    // skipping comment lines in batch mode in case there is any
     if(input[0] == '#' || input[0] == '/'){
         return;
     }
@@ -59,3 +59,9 @@ void execute_commands(char *input) {
         printf("command '%s' not found \n", args[0]);
     }
 }
+
+/*Name: Petra Sartori
+Student ID: 23324986
+I acknowledge DCU Academic Integrity Policy while working on this project. 
+My work is my work only and is a result of research, practice and design which I did on my own.
+This project does not contain any plagiarised content.*/
