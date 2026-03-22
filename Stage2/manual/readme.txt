@@ -25,7 +25,7 @@ To start using the shell:
     3. run in batch mode
 
 Compile the shell
-    go into Stage1 directory
+    go into Stage2 directory
     run "make".
 
 To run the shell in interactive mode:
