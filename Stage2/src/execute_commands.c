@@ -102,3 +102,9 @@ void execute_commands(char *input) {
         run_external_command(args, input_file, output_file, append, dont_wait);
     }
 }
+
+/*Name: Petra Sartori
+Student ID: 23324986
+I acknowledge DCU Academic Integrity Policy while working on this project.
+My work is my work only and is a result of research, practice and design which I did on my own.
+This project does not contain any plagiarised content.*/

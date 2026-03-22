@@ -40,3 +40,9 @@ void special_tokens(char **args, char **input_file, char **output_file, int *app
 void run_external_command(char **args, char *input_file, char *output_file, int append, int dont_wait);
 
 # endif
+
+/*Name: Petra Sartori
+Student ID: 23324986
+I acknowledge DCU Academic Integrity Policy while working on this project.
+My work is my work only and is a result of research, practice and design which I did on my own.
+This project does not contain any plagiarised content.*/
